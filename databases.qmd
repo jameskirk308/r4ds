@@ -13,7 +13,7 @@ Sometimes you can ask someone to download a snapshot into a `.csv` for you, but 
 You want to be able to reach into the database directly to get the data you need, when you need it.
 
 In this chapter, you'll first learn the basics of the DBI package: how to use it to connect to a database and then retrieve data with a SQL[^databases-1] query.
-**SQL**, short for **s**tructured **q**uery **l**anguage, is the lingua franca of databases, and is an important language for all data scientists to learn.
+**SQL**, short for **s**tructured **q**uery **l**anguage, is the lingua franca of databases, and is an important language for all [data scientists](https://www.projectpro.io/projects/data-science-projects) to learn.
 That said, we're not going to start with SQL, but instead we'll teach you dbplyr, which can translate your dplyr code to the SQL.
 We'll use that as a way to teach you some of the most important features of SQL.
 You won't become a SQL master by the end of the chapter, but you will be able to identify the most important components and understand what they do.
