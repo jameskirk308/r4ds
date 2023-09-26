@@ -1,7 +1,7 @@
 # Welcome {.unnumbered}
 
 This is the website for the 2nd edition of **"R for Data Science"**.
-This book will teach you how to do data science with R: You'll learn how to get your data into R, get it into the most useful structure, transform it and visualize.
+This book will teach you how to do [data science with R](https://www.projectpro.io/projects/data-science-projects): You'll learn how to get your data into R, get it into the most useful structure, transform it and visualize.
 
 In this book, you will find a practicum of skills for data science.
 Just as a chemist learns how to clean test tubes and stock a lab, you'll learn how to clean data and draw plots---and many other things besides.
